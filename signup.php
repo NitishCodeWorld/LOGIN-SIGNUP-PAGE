@@ -43,7 +43,7 @@
                             </td>
                         </tr>
                         <td>
-                            <input type="password" id="password-r" name="password-r" require>
+                            <input type="password" id="password-r" name="password-r" autocomplete="new-password" require>
                         </td>
                     </table>
                     <button class="btn btn-primary" name="ok">Sign up</button>
